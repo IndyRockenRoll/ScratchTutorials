@@ -6,6 +6,5 @@ content
 
 Completed Tutorials in Coderdojo Tramore Scratch Online account: -
 
-
-
 1: GriffPatch Platformer Tutorial PART 1 - https://scratch.mit.edu/projects/743652877/
+
